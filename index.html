@@ -4,7 +4,12 @@
 <meta charset="utf-8" />
 <title>Mapa do Jogo</title>
 
-<link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css"/>
+<link
+  rel="stylesheet"
+  href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+/>
+
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
 
 <style>
 html, body {
@@ -17,11 +22,24 @@ html, body {
     height: 100%;
 }
 
-/* deixa os créditos mais discretos */
+/* créditos estilo jogo */
 .leaflet-control-attribution {
-    font-size: 10px;
-    background: rgba(0,0,0,0.4);
-    color: #ccc;
+    font-size: 11px !important;
+    background: rgba(0,0,0,0.6) !important;
+    color: #aaa !important;
+    padding: 2px 6px !important;
+}
+
+/* remove links clicáveis */
+.leaflet-control-attribution a {
+    pointer-events: none;
+    text-decoration: none;
+    color: #aaa !important;
+}
+
+/* remove bandeiras e ícones */
+.leaflet-control-attribution img {
+    display: none !important;
 }
 </style>
 </head>
@@ -30,16 +48,16 @@ html, body {
 
 <div id="map"></div>
 
-<script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
-
 <script>
+var map = L.map('map', {
+    zoomControl: true
+}).setView([20, 0], 2); // visão global
 
-// visão global
-var map = L.map('map').setView([20, 0], 2);
-
-// mapa escuro estilo jogo
-L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png', {
-    attribution: 'Map data © OpenStreetMap contributors | Map style © CARTO',
+L.tileLayer(
+'https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png',
+{
+    attribution:
+        '&copy; OpenStreetMap contributors &copy; CARTO',
     subdomains: 'abcd',
     maxZoom: 20
 }).addTo(map);
