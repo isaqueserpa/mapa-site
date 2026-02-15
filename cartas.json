@@ -2727,4 +2727,1054 @@
     "region": "África Subsaariana (Angola)",
     "desc": "Paulo Dias de Novais funda a cidade de São Paulo da Assunção de Loanda.",
     "searchTerms": ["History_of_Luanda"]
+  },
+  {
+    "title": "Batalha de Qadesh",
+    "coords": [34.5622, 36.5147],
+    "region": "Oriente Médio (Síria)",
+    "desc": "O maior confronto de bigas da história entre Egito e Hititas.",
+    "searchTerms": ["Battle_of_Kadesh"]
+  },
+  {
+    "title": "Fundação de Tenochtitlán",
+    "coords": [19.4326, -99.1332],
+    "region": "América do Norte (México)",
+    "desc": "Os astecas fundam sua capital onde viram a águia sobre o cacto.",
+    "searchTerms": ["Tenochtitlan"]
+  },
+  {
+    "title": "Batalha de Midway",
+    "coords": [28.2101, -177.3761],
+    "region": "Oceano Pacífico",
+    "desc": "O ponto de virada decisivo na Guerra do Pacífico na 2ª Guerra.",
+    "searchTerms": ["Battle_of_Midway"]
+  },
+  {
+    "title": "Independência do Gana",
+    "coords": [5.6037, -0.1870],
+    "region": "África Ocidental",
+    "desc": "Kwame Nkrumah lidera a primeira colônia subsaariana à independência.",
+    "searchTerms": ["Independence_of_Ghana"]
+  },
+  {
+    "title": "Batalha de Agincourt",
+    "coords": [50.4641, 2.1417],
+    "region": "Europa (França)",
+    "desc": "Vitória improvável dos arqueiros ingleses contra a cavalaria francesa.",
+    "searchTerms": ["Battle_of_Agincourt"]
+  },
+  {
+    "title": "Criação da OTAN",
+    "coords": [38.8951, -77.0364],
+    "region": "América do Norte (EUA)",
+    "desc": "Assinatura do Tratado do Atlântico Norte em Washington D.C.",
+    "searchTerms": ["History_of_NATO"]
+  },
+  {
+    "title": "Fundação de Singapura",
+    "coords": [1.2833, 103.8500],
+    "region": "Sudeste Asiático",
+    "desc": "Stamford Raffles estabelece o posto comercial britânico na ilha.",
+    "searchTerms": ["Founding_of_modern_Singapore"]
+  },
+  {
+    "title": "Batalha de Solferino",
+    "coords": [45.3667, 10.5500],
+    "region": "Europa (Itália)",
+    "desc": "A brutalidade deste combate inspirou a criação da Cruz Vermelha.",
+    "searchTerms": ["Battle_of_Solferino"]
+  },
+  {
+    "title": "Descoberta de Machu Picchu",
+    "coords": [-13.1631, -72.5450],
+    "region": "América do Sul (Peru)",
+    "desc": "Hiram Bingham revela a 'Cidade Perdida dos Incas' ao mundo.",
+    "searchTerms": ["Machu_Picchu"]
+  },
+  {
+    "title": "Batalha de Lepanto",
+    "coords": [38.3333, 21.3333],
+    "region": "Mar Mediterrâneo",
+    "desc": "A coalizão cristã interrompe a expansão naval otomana.",
+    "searchTerms": ["Battle_of_Lepanto"]
+  },
+  {
+    "title": "Independência do Vietnã",
+    "coords": [21.0285, 105.8542],
+    "region": "Sudeste Asiático",
+    "desc": "Ho Chi Minh proclama a independência na Praça Ba Dinh.",
+    "searchTerms": ["Proclamation_of_Independence_of_Vietnam"]
+  },
+  {
+    "title": "Batalha de Culloden",
+    "coords": [57.4778, -4.0956],
+    "region": "Europa (Escócia)",
+    "desc": "O confronto final que encerrou as rebeliões jacobitas.",
+    "searchTerms": ["Battle_of_Culloden"]
+  },
+  {
+    "title": "Tratado de Waitangi",
+    "coords": [-35.2622, 174.0814],
+    "region": "Oceania (Nova Zelândia)",
+    "desc": "O acordo fundamental entre a Coroa Britânica e os chefes Māori.",
+    "searchTerms": ["Treaty_of_Waitangi"]
+  },
+  {
+    "title": "Batalha de Plassey",
+    "coords": [23.8000, 88.2500],
+    "region": "Ásia Meridional (Índia)",
+    "desc": "Vitória que iniciou o domínio da Companhia das Índias Orientais.",
+    "searchTerms": ["Battle_of_Plassey"]
+  },
+  {
+    "title": "Fundação de Alexandria",
+    "coords": [31.2001, 29.9187],
+    "region": "Norte da África (Egito)",
+    "desc": "Alexandre, o Grande, funda o maior centro cultural da Antiguidade.",
+    "searchTerms": ["Alexandria"]
+  },
+  {
+    "title": "Batalha de Borodino",
+    "coords": [55.5167, 35.8167],
+    "region": "Europa (Rússia)",
+    "desc": "O dia mais sangrento das Guerras Napoleônicas.",
+    "searchTerms": ["Battle_of_Borodino"]
+  },
+  {
+    "title": "Invenção do Telefone",
+    "coords": [42.3601, -71.0589],
+    "region": "América do Norte (Boston)",
+    "desc": "Alexander Graham Bell realiza a primeira chamada telefônica.",
+    "searchTerms": ["History_of_the_telephone"]
+  },
+  {
+    "title": "Batalha de Sekigahara",
+    "coords": [35.3622, 136.4633],
+    "region": "Extremo Oriente (Japão)",
+    "desc": "A unificação do Japão sob o poder de Tokugawa Ieyasu.",
+    "searchTerms": ["Battle_of_Sekigahara"]
+  },
+  {
+    "title": "Independência da Argélia",
+    "coords": [36.7538, 3.0588],
+    "region": "Norte da África",
+    "desc": "O fim de uma violenta guerra de descolonização contra a França.",
+    "searchTerms": ["Algerian_War_of_Independence"]
+  },
+  {
+    "title": "Batalha de Boyne",
+    "coords": [53.7214, -6.4178],
+    "region": "Europa (Irlanda)",
+    "desc": "Guilherme de Orange derrota Jaime II pelo trono britânico.",
+    "searchTerms": ["Battle_of_the_Boyne"]
+  },
+  {
+    "title": "Fundação de Samarcanda",
+    "coords": [39.6542, 66.9597],
+    "region": "Ásia Central (Uzbequistão)",
+    "desc": "Um dos principais entrepostos comerciais da Rota da Seda.",
+    "searchTerms": ["Samarkand"]
+  },
+  {
+    "title": "Batalha de Bannockburn",
+    "coords": [56.0833, -3.9167],
+    "region": "Europa (Escócia)",
+    "desc": "Robert the Bruce garante a independência escocesa contra os ingleses.",
+    "searchTerms": ["Battle_of_Bannockburn"]
+  },
+  {
+    "title": "Tratado de Tordesilhas",
+    "coords": [41.5000, -5.0000],
+    "region": "Europa (Espanha)",
+    "desc": "A partilha do mundo entre Portugal e Espanha.",
+    "searchTerms": ["Treaty_of_Tordesillas"]
+  },
+  {
+    "title": "Batalha de Omdurman",
+    "coords": [15.6500, 32.4833],
+    "region": "África (Sudão)",
+    "desc": "Vitória britânica que consolidou o domínio no Vale do Nilo.",
+    "searchTerms": ["Battle_of_Omdurman"]
+  },
+  {
+    "title": "Inauguração do Canal de Suez",
+    "coords": [31.2500, 32.3333],
+    "region": "Norte da África (Egito)",
+    "desc": "A via que revolucionou o comércio entre Europa e Ásia.",
+    "searchTerms": ["Suez_Canal"]
+  },
+  {
+    "title": "Batalha de Fredericksburg",
+    "coords": [38.3000, -77.4667],
+    "region": "América do Norte (Guerra Civil EUA)",
+    "desc": "Uma das vitórias mais esmagadoras dos Confederados.",
+    "searchTerms": ["Battle_of_Fredericksburg"]
+  },
+  {
+    "title": "Fundação de Quioto",
+    "coords": [35.0116, 135.7681],
+    "region": "Extremo Oriente (Japão)",
+    "desc": "A cidade torna-se a sede da corte imperial sob o nome Heian-kyo.",
+    "searchTerms": ["History_of_Kyoto"]
+  },
+  {
+    "title": "Batalha de Tsushima",
+    "coords": [34.2500, 129.4167],
+    "region": "Extremo Oriente",
+    "desc": "A primeira grande vitória naval de uma nação asiática sobre uma europeia.",
+    "searchTerms": ["Battle_of_Tsushima"]
+  },
+  {
+    "title": "Criação da União Africana",
+    "coords": [9.0227, 38.7460],
+    "region": "África (Etiópia)",
+    "desc": "A organização sucessora da OUA é estabelecida em Adis Abeba.",
+    "searchTerms": ["African_Union"]
+  },
+  {
+    "title": "Batalha de Little Bighorn",
+    "coords": [45.5661, -107.4269],
+    "region": "América do Norte (EUA)",
+    "desc": "O General Custer é derrotado pelas tribos Lakota e Cheyenne.",
+    "searchTerms": ["Battle_of_the_Little_Bighorn"]
+  },
+  {
+    "title": "Primeiro Censo da China (Dinastia Han)",
+    "coords": [34.2667, 108.9000],
+    "region": "Extremo Oriente",
+    "desc": "Um dos registros populacionais mais antigos e detalhados da história.",
+    "searchTerms": ["Han_dynasty"]
+  },
+  {
+    "title": "Batalha de Carras",
+    "coords": [36.8617, 39.0306],
+    "region": "Oriente Médio (Turquia)",
+    "desc": "Onde os Partos derrotaram as legiões de Crasso com arqueiros montados.",
+    "searchTerms": ["Battle_of_Carrhae"]
+  },
+  {
+    "title": "Independência das Filipinas",
+    "coords": [14.4447, 120.9403],
+    "region": "Sudeste Asiático",
+    "desc": "Emilio Aguinaldo declara a soberania após séculos sob a Espanha.",
+    "searchTerms": ["Philippine_Declaration_of_Independence"]
+  },
+  {
+    "title": "Batalha de Alcácer-Quibir",
+    "coords": [35.1667, -5.9167],
+    "region": "Norte da África (Marrocos)",
+    "desc": "O desaparecimento de D. Sebastião de Portugal em combate.",
+    "searchTerms": ["Battle_of_Alcácer_Quibir"]
+  },
+  {
+    "title": "Inauguração da Ponte Golden Gate",
+    "coords": [37.8199, -122.4783],
+    "region": "América do Norte (San Francisco)",
+    "desc": "A conclusão do ícone da engenharia civil na Califórnia.",
+    "searchTerms": ["Golden_Gate_Bridge"]
+  },
+  {
+    "title": "Batalha de Narva",
+    "coords": [59.3792, 28.1725],
+    "region": "Europa (Estônia)",
+    "desc": "Carlos XII da Suécia derrota o exército de Pedro, o Grande.",
+    "searchTerms": ["Battle_of_Narva_(1700)"]
+  },
+  {
+    "title": "Fundação de Jacarta",
+    "coords": [-6.2088, 106.8456],
+    "region": "Sudeste Asiático (Indonésia)",
+    "desc": "Batavia torna-se o centro administrativo holandês no Oriente.",
+    "searchTerms": ["History_of_Jakarta"]
+  },
+  {
+    "title": "Batalha de Guadalcanal",
+    "coords": [-9.4456, 159.9728],
+    "region": "Oceania (Ilhas Salomão)",
+    "desc": "A primeira grande ofensiva terrestre dos Aliados no Pacífico.",
+    "searchTerms": ["Guadalcanal_campaign"]
+  },
+  {
+    "title": "Primeiro Voo Supersônico",
+    "coords": [34.9197, -117.8828],
+    "region": "América do Norte (EUA)",
+    "desc": "Chuck Yeager rompe a barreira do som no Bell X-1.",
+    "searchTerms": ["Chuck_Yeager"]
+  },
+  {
+    "title": "Batalha de Tarento",
+    "coords": [40.4667, 17.2333],
+    "region": "Europa (Itália)",
+    "desc": "O ataque aéreo britânico que paralisou a frota italiana.",
+    "searchTerms": ["Battle_of_Taranto"]
+  },
+  {
+    "title": "Criação da Agência Espacial Europeia",
+    "coords": [48.8475, 2.3025],
+    "region": "Europa (Paris)",
+    "desc": "A união de esforços europeus para a conquista do espaço.",
+    "searchTerms": ["European_Space_Agency"]
+  },
+  {
+    "title": "Batalha de Marengo",
+    "coords": [44.8942, 8.6817],
+    "region": "Europa (Itália)",
+    "desc": "Napoleão derrota os austríacos e consolida o Consulado.",
+    "searchTerms": ["Battle_of_Marengo"]
+  },
+  {
+    "title": "Fundação de Bagdá",
+    "coords": [33.3152, 44.3661],
+    "region": "Oriente Médio (Iraque)",
+    "desc": "A capital do califado abássida torna-se a joia do Islã.",
+    "searchTerms": ["History_of_Baghdad"]
+  },
+  {
+    "title": "Batalha de Khalkhin Gol",
+    "coords": [47.7667, 118.5833],
+    "region": "Ásia Central (Mongólia)",
+    "desc": "Confronto onde Zhukov testou as táticas de blindados contra o Japão.",
+    "searchTerms": ["Battle_of_Khalkhin_Gol"]
+  },
+  {
+    "title": "Descobrimento do Estreito de Bering",
+    "coords": [66.0000, -169.0000],
+    "region": "Ártico",
+    "desc": "Vitus Bering prova que a Ásia não está conectada à América.",
+    "searchTerms": ["Vitus_Bering"]
+  },
+  {
+    "title": "Batalha de Rocroi",
+    "coords": [49.9250, 4.5208],
+    "region": "Europa (França)",
+    "desc": "O fim da hegemonia militar dos Terços espanhóis.",
+    "searchTerms": ["Battle_of_Rocroi"]
+  },
+  {
+    "title": "Invenção do Transistor",
+    "coords": [40.6828, -74.4011],
+    "region": "América do Norte (EUA)",
+    "desc": "O nascimento da eletrônica moderna nos Laboratórios Bell.",
+    "searchTerms": ["Transistor"]
+  },
+  {
+    "title": "Batalha de San Juan Hill",
+    "coords": [20.0167, -75.8167],
+    "region": "Américas (Cuba)",
+    "desc": "A famosa carga dos Rough Riders de Theodore Roosevelt.",
+    "searchTerms": ["Battle_of_San_Juan_Hill"]
+  },
+  {
+    "title": "Fundação da Cidade do Cabo",
+    "coords": [-33.9249, 18.4241],
+    "region": "África Subsaariana",
+    "desc": "Jan van Riebeeck estabelece o entreposto para a rota das especiarias.",
+    "searchTerms": ["History_of_Cape_Town"]
+  },
+  {
+    "title": "Conferência de Bretton Woods",
+    "coords": [44.2611, -71.4408],
+    "region": "América do Norte (EUA)",
+    "desc": "A criação do sistema financeiro moderno e do FMI.",
+    "searchTerms": ["Bretton_Woods_Conference"]
+  },
+  {
+    "title": "Batalha de Salamina",
+    "coords": [37.9500, 23.5667],
+    "region": "Europa (Grécia)",
+    "desc": "A vitória naval grega que impediu a invasão persa de Xerxes.",
+    "searchTerms": ["Battle_of_Salamis"]
+  },
+  {
+    "title": "Fundação de Luanda",
+    "coords": [-8.8383, 13.2344],
+    "region": "África Subsaariana (Angola)",
+    "desc": "Paulo Dias de Novais funda a cidade de São Paulo da Assunção de Loanda.",
+    "searchTerms": ["Luanda"]
+  },
+  {
+    "title": "Batalha de Panipat",
+    "coords": [29.3909, 76.9635],
+    "region": "Ásia Meridional (Índia)",
+    "desc": "O início do Império Mogol com a vitória de Babur.",
+    "searchTerms": ["First_Battle_of_Panipat"]
+  },
+  {
+    "title": "Expedição de Scott (Antártida)",
+    "coords": [-77.8464, 166.6667],
+    "region": "Antártida",
+    "desc": "A trágica expedição Terra Nova rumo ao Polo Sul.",
+    "searchTerms": ["Robert_Falcon_Scott"]
+  },
+  {
+    "title": "Batalha de Culloden",
+    "coords": [57.4778, -4.0956],
+    "region": "Europa (Escócia)",
+    "desc": "O fim definitivo das revoltas jacobitas e dos clãs das Highlands.",
+    "searchTerms": ["Battle_of_Culloden"]
+  },
+  {
+    "title": "Tratado de Portsmouth",
+    "coords": [43.0717, -70.7625],
+    "region": "América do Norte (EUA)",
+    "desc": "O acordo que encerrou a Guerra Russo-Japonesa sob mediação de Roosevelt.",
+    "searchTerms": ["Treaty_of_Portsmouth"]
+  },
+  {
+    "title": "Batalha de Alcácer-Quibir",
+    "coords": [35.1667, -5.9167],
+    "region": "Norte da África (Marrocos)",
+    "desc": "O desastre militar que levou ao desaparecimento de D. Sebastião.",
+    "searchTerms": ["Battle_of_Alcacer_Quibir"]
+  },
+  {
+    "title": "Independência do Uzbequistão",
+    "coords": [41.2995, 69.2401],
+    "region": "Ásia Central",
+    "desc": "O país declara soberania após o fim da União Soviética.",
+    "searchTerms": ["History_of_Uzbekistan"]
+  },
+  {
+    "title": "Batalha de Adrianópolis",
+    "coords": [41.6772, 26.5558],
+    "region": "Europa (Turquia)",
+    "desc": "A derrota romana para os visigodos que abalou o Império.",
+    "searchTerms": ["Battle_of_Adrianople"]
+  },
+  {
+    "title": "Fundação de Kyoto",
+    "coords": [35.0116, 135.7681],
+    "region": "Extremo Oriente (Japão)",
+    "desc": "Heian-kyo torna-se a capital imperial japonesa.",
+    "searchTerms": ["Kyoto"]
+  },
+  {
+    "title": "Batalha de Blood River",
+    "coords": [-28.1064, 30.6528],
+    "region": "África Subsaariana (África do Sul)",
+    "desc": "Confronto entre os Voortrekkers e o Império Zulu.",
+    "searchTerms": ["Battle_of_Blood_River"]
+  },
+  {
+    "title": "Descoberta de Plutão",
+    "coords": [35.2131, -111.6311],
+    "region": "América do Norte (Arizona)",
+    "desc": "Clyde Tombaugh identifica o planeta no Observatório Lowell.",
+    "searchTerms": ["Pluto"]
+  },
+  {
+    "title": "Batalha de Tannenberg (1410)",
+    "coords": [53.4833, 20.1333],
+    "region": "Europa (Polônia)",
+    "desc": "A aliança polaco-lituana derrota os Cavaleiros Teutônicos.",
+    "searchTerms": ["Battle_of_Grunwald"]
+  },
+  {
+    "title": "Independência de Timor-Leste",
+    "coords": [-8.5581, 125.5736],
+    "region": "Sudeste Asiático",
+    "desc": "Restauração da independência após ocupação indonésia.",
+    "searchTerms": ["History_of_East_Timor"]
+  },
+  {
+    "title": "Batalha de Chancellorsville",
+    "coords": [38.3103, -77.6369],
+    "region": "América do Norte (Guerra Civil)",
+    "desc": "A maior vitória tática de Robert E. Lee sobre o Norte.",
+    "searchTerms": ["Battle_of_Chancellorsville"]
+  },
+  {
+    "title": "Fundação de Petra",
+    "coords": [30.3285, 35.4444],
+    "region": "Oriente Médio (Jordânia)",
+    "desc": "Os nabateus esculpem sua capital nas montanhas de arenito.",
+    "searchTerms": ["Petra"]
+  },
+  {
+    "title": "Batalha de Stamford Bridge",
+    "coords": [53.9883, -0.9153],
+    "region": "Europa (Inglaterra)",
+    "desc": "O fim da Era Viking na Inglaterra.",
+    "searchTerms": ["Battle_of_Stamford_Bridge"]
+  },
+  {
+    "title": "Criação da ESA (Agência Espacial)",
+    "coords": [48.8475, 2.3025],
+    "region": "Europa (França)",
+    "desc": "Sede da agência espacial que une os países europeus.",
+    "searchTerms": ["European_Space_Agency"]
+  },
+  {
+    "title": "Batalha de Boyne",
+    "coords": [53.7214, -6.4178],
+    "region": "Europa (Irlanda)",
+    "desc": "Vitória de Guilherme de Orange que moldou a história britânica.",
+    "searchTerms": ["Battle_of_the_Boyne"]
+  },
+  {
+    "title": "Invenção do Estetoscópio",
+    "coords": [48.8510, 2.3386],
+    "region": "Europa (França)",
+    "desc": "René Laennec revoluciona a medicina diagnóstica em Paris.",
+    "searchTerms": ["Stethoscope"]
+  },
+  {
+    "title": "Batalha de Mohács",
+    "coords": [45.9911, 18.6828],
+    "region": "Europa (Hungria)",
+    "desc": "Vitória otomana que destruiu o Reino da Hungria.",
+    "searchTerms": ["Battle_of_Mohacs"]
+  },
+  {
+    "title": "Criação do Banco Central Europeu",
+    "coords": [50.1107, 8.6821],
+    "region": "Europa (Alemanha)",
+    "desc": "Estabelecimento da sede em Frankfurt para gerir o Euro.",
+    "searchTerms": ["European_Central_Bank"]
+  },
+  {
+    "title": "Batalha de Marengo",
+    "coords": [44.8942, 8.6817],
+    "region": "Europa (Itália)",
+    "desc": "Napoleão consolida seu poder como Primeiro Cônsul.",
+    "searchTerms": ["Battle_of_Marengo"]
+  },
+  {
+    "title": "Fundação do Califado de Córdoba",
+    "coords": [37.8881, -4.7794],
+    "region": "Europa (Espanha)",
+    "desc": "O auge da cultura islâmica na Península Ibérica.",
+    "searchTerms": ["Caliphate_of_Cordoba"]
+  },
+  {
+    "title": "Batalha de Ayacucho",
+    "coords": [-13.0642, -74.1272],
+    "region": "América do Sul (Peru)",
+    "desc": "A batalha que selou a independência da América do Sul.",
+    "searchTerms": ["Battle_of_Ayacucho"]
+  },
+  {
+    "title": "Primeira Ascensão do Everest",
+    "coords": [27.9881, 86.9250],
+    "region": "Ásia (Himalaia)",
+    "desc": "Edmund Hillary e Tenzing Norgay conquistam o topo do mundo.",
+    "searchTerms": ["Mount_Everest"]
+  },
+  {
+    "title": "Batalha de Fredericksburg",
+    "coords": [38.3000, -77.4667],
+    "region": "América do Norte (EUA)",
+    "desc": "Uma derrota amarga para as forças da União.",
+    "searchTerms": ["Battle_of_Fredericksburg"]
+  },
+  {
+    "title": "Independência do Quênia",
+    "coords": [-1.2833, 36.8167],
+    "region": "África Oriental",
+    "desc": "Jomo Kenyatta torna-se o primeiro líder após o domínio britânico.",
+    "searchTerms": ["History_of_Kenya"]
+  },
+  {
+    "title": "Batalha de Lepanto (Naval)",
+    "coords": [38.3333, 21.3333],
+    "region": "Europa (Grécia)",
+    "desc": "A última grande batalha de galés no Mar Jônico.",
+    "searchTerms": ["Battle_of_Lepanto"]
+  },
+  {
+    "title": "Fundação de Timbuktu",
+    "coords": [16.7666, -3.0026],
+    "region": "África Ocidental (Mali)",
+    "desc": "Centro lendário de comércio de ouro e manuscritos islâmicos.",
+    "searchTerms": ["Timbuktu"]
+  },
+  {
+    "title": "Batalha de Guadalcanal",
+    "coords": [-9.4456, 159.9728],
+    "region": "Oceania (Ilhas Salomão)",
+    "desc": "Ofensiva decisiva contra o avanço japonês.",
+    "searchTerms": ["Guadalcanal_Campaign"]
+  },
+  {
+    "title": "Inauguração da Ponte de Brooklyn",
+    "coords": [40.7061, -73.9969],
+    "region": "América do Norte (EUA)",
+    "desc": "Obra-prima de suspensão que uniu Manhattan ao Brooklyn.",
+    "searchTerms": ["Brooklyn_Bridge"]
+  },
+  {
+    "title": "Batalha de Actium",
+    "coords": [38.9333, 20.7667],
+    "region": "Europa (Grécia)",
+    "desc": "Otaviano derrota Marco Antônio e Cleópatra.",
+    "searchTerms": ["Battle_of_Actium"]
+  },
+  {
+    "title": "Expulsão dos Mouros (Granada)",
+    "coords": [37.1773, -3.5986],
+    "region": "Europa (Espanha)",
+    "desc": "Os Reis Católicos concluem a Reconquista.",
+    "searchTerms": ["Granada_War"]
+  },
+  {
+    "title": "Batalha de Somme",
+    "coords": [50.0167, 2.6833],
+    "region": "Europa (França)",
+    "desc": "Um dos confrontos mais letais da 1ª Guerra Mundial.",
+    "searchTerms": ["Battle_of_the_Somme"]
+  },
+  {
+    "title": "Independência de Angola",
+    "coords": [-8.8383, 13.2344],
+    "region": "África (Angola)",
+    "desc": "O fim do domínio português após anos de guerra.",
+    "searchTerms": ["Angolan_War_of_Independence"]
+  },
+  {
+    "title": "Batalha de San Juan Hill",
+    "coords": [20.0167, -75.8167],
+    "region": "Américas (Cuba)",
+    "desc": "Confronto icônico da Guerra Hispano-Americana.",
+    "searchTerms": ["Battle_of_San_Juan_Hill"]
+  },
+  {
+    "title": "Fundação da Royal Society",
+    "coords": [51.5074, -0.1278],
+    "region": "Europa (Inglaterra)",
+    "desc": "A instituição que impulsionou a revolução científica.",
+    "searchTerms": ["Royal_Society"]
+  },
+  {
+    "title": "Batalha de Culloden (Campo)",
+    "coords": [57.4778, -4.0956],
+    "region": "Europa (Escócia)",
+    "desc": "Derrota final da dinastia Stuart.",
+    "searchTerms": ["Culloden"]
+  },
+  {
+    "title": "Conferência de Yalta",
+    "coords": [44.4795, 34.1495],
+    "region": "Europa (Crimeia)",
+    "desc": "Líderes aliados planejam a divisão do mundo pós-2ª Guerra.",
+    "searchTerms": ["Yalta_Conference"]
+  },
+  {
+    "title": "Batalha de Marengo (Itália)",
+    "coords": [44.8942, 8.6817],
+    "region": "Europa (Itália)",
+    "desc": "Napoleão vence os austríacos no Piemonte.",
+    "searchTerms": ["Marengo"]
+  },
+  {
+    "title": "Independência do Sudão do Sul",
+    "coords": [4.8517, 31.5822],
+    "region": "África",
+    "desc": "O país mais jovem do mundo conquista a soberania.",
+    "searchTerms": ["History_of_South_Sudan"]
+  },
+  {
+    "title": "Batalha de Rocroi (Flandres)",
+    "coords": [49.9250, 4.5208],
+    "region": "Europa (França)",
+    "desc": "Vitória francesa que quebrou a invencibilidade espanhola.",
+    "searchTerms": ["Rocroi"]
+  },
+  {
+    "title": "Fundação da Microsoft (Albuquerque)",
+    "coords": [35.0844, -106.6504],
+    "region": "América do Norte (EUA)",
+    "desc": "Bill Gates e Paul Allen fundam a empresa no Novo México.",
+    "searchTerms": ["Microsoft"]
+  },
+  {
+    "title": "Batalha de Gettysburg",
+    "coords": [39.8281, -77.2311],
+    "region": "América do Norte (EUA)",
+    "desc": "O ponto de virada da Guerra Civil Americana.",
+    "searchTerms": ["Battle_of_Gettysburg"]
+  },
+  {
+    "title": "Inauguração do Eurotúnel",
+    "coords": [50.9200, 1.8100],
+    "region": "Europa (França/UK)",
+    "desc": "O canal subaquático que uniu Londres a Paris.",
+    "searchTerms": ["Channel_Tunnel"]
+  },
+  {
+    "title": "Batalha de Culloden (Moor)",
+    "coords": [57.4778, -4.0956],
+    "region": "Europa (Escócia)",
+    "desc": "O fim do sistema de clãs escocês.",
+    "searchTerms": ["Culloden"]
+  },
+  {
+    "title": "Criação da Interpol (Sede)",
+    "coords": [45.7831, 4.8519],
+    "region": "Europa (França)",
+    "desc": "Estabelecimento da polícia internacional em Lyon.",
+    "searchTerms": ["Interpol"]
+  },
+  {
+    "title": "Batalha de Iwo Jima (Monte Suribachi)",
+    "coords": [24.7500, 141.2833],
+    "region": "Extremo Oriente",
+    "desc": "Combate brutal simbolizado pelo erguer da bandeira.",
+    "searchTerms": ["Iwo_Jima"]
+  },
+  {
+    "title": "Fundação de Alexandria (Egito)",
+    "coords": [31.2001, 29.9187],
+    "region": "África (Egito)",
+    "desc": "O porto que ligou o Egito ao mundo mediterrâneo.",
+    "searchTerms": ["Alexandria"]
+  },
+  {
+    "title": "Batalha de Salamina",
+    "coords": [37.9500, 23.5667],
+    "region": "Europa (Grécia)",
+    "desc": "A vitória naval grega que impediu a invasão persa de Xerxes.",
+    "searchTerms": ["Battle_of_Salamis"]
+  },
+  {
+    "title": "Fundação de Luanda",
+    "coords": [-8.8383, 13.2344],
+    "region": "África Subsaariana (Angola)",
+    "desc": "Paulo Dias de Novais funda a cidade de São Paulo da Assunção de Loanda.",
+    "searchTerms": ["Luanda"]
+  },
+  {
+    "title": "Batalha de Panipat",
+    "coords": [29.3909, 76.9635],
+    "region": "Ásia Meridional (Índia)",
+    "desc": "O início do Império Mogol com a vitória de Babur.",
+    "searchTerms": ["First_Battle_of_Panipat"]
+  },
+  {
+    "title": "Expedição de Scott (Antártida)",
+    "coords": [-77.8464, 166.6667],
+    "region": "Antártida",
+    "desc": "A trágica expedição Terra Nova rumo ao Polo Sul.",
+    "searchTerms": ["Robert_Falcon_Scott"]
+  },
+  {
+    "title": "Batalha de Culloden",
+    "coords": [57.4778, -4.0956],
+    "region": "Europa (Escócia)",
+    "desc": "O fim definitivo das revoltas jacobitas e dos clãs das Highlands.",
+    "searchTerms": ["Battle_of_Culloden"]
+  },
+  {
+    "title": "Tratado de Portsmouth",
+    "coords": [43.0717, -70.7625],
+    "region": "América do Norte (EUA)",
+    "desc": "O acordo que encerrou a Guerra Russo-Japonesa sob mediação de Roosevelt.",
+    "searchTerms": ["Treaty_of_Portsmouth"]
+  },
+  {
+    "title": "Batalha de Alcácer-Quibir",
+    "coords": [35.1667, -5.9167],
+    "region": "Norte da África (Marrocos)",
+    "desc": "O desastre militar que levou ao desaparecimento de D. Sebastião.",
+    "searchTerms": ["Battle_of_Alcacer_Quibir"]
+  },
+  {
+    "title": "Independência do Uzbequistão",
+    "coords": [41.2995, 69.2401],
+    "region": "Ásia Central",
+    "desc": "O país declara soberania após o fim da União Soviética.",
+    "searchTerms": ["History_of_Uzbekistan"]
+  },
+  {
+    "title": "Batalha de Adrianópolis",
+    "coords": [41.6772, 26.5558],
+    "region": "Europa (Turquia)",
+    "desc": "A derrota romana para os visigodos que abalou o Império.",
+    "searchTerms": ["Battle_of_Adrianople"]
+  },
+  {
+    "title": "Fundação de Kyoto",
+    "coords": [35.0116, 135.7681],
+    "region": "Extremo Oriente (Japão)",
+    "desc": "Heian-kyo torna-se a capital imperial japonesa.",
+    "searchTerms": ["Kyoto"]
+  },
+  {
+    "title": "Batalha de Blood River",
+    "coords": [-28.1064, 30.6528],
+    "region": "África Subsaariana (África do Sul)",
+    "desc": "Confronto entre os Voortrekkers e o Império Zulu.",
+    "searchTerms": ["Battle_of_Blood_River"]
+  },
+  {
+    "title": "Descoberta de Plutão",
+    "coords": [35.2131, -111.6311],
+    "region": "América do Norte (Arizona)",
+    "desc": "Clyde Tombaugh identifica o planeta no Observatório Lowell.",
+    "searchTerms": ["Pluto"]
+  },
+  {
+    "title": "Batalha de Tannenberg (1410)",
+    "coords": [53.4833, 20.1333],
+    "region": "Europa (Polônia)",
+    "desc": "A aliança polaco-lituana derrota os Cavaleiros Teutônicos.",
+    "searchTerms": ["Battle_of_Grunwald"]
+  },
+  {
+    "title": "Independência de Timor-Leste",
+    "coords": [-8.5581, 125.5736],
+    "region": "Sudeste Asiático",
+    "desc": "Restauração da independência após ocupação indonésia.",
+    "searchTerms": ["History_of_East_Timor"]
+  },
+  {
+    "title": "Batalha de Chancellorsville",
+    "coords": [38.3103, -77.6369],
+    "region": "América do Norte (Guerra Civil)",
+    "desc": "A maior vitória tática de Robert E. Lee sobre o Norte.",
+    "searchTerms": ["Battle_of_Chancellorsville"]
+  },
+  {
+    "title": "Fundação de Petra",
+    "coords": [30.3285, 35.4444],
+    "region": "Oriente Médio (Jordânia)",
+    "desc": "Os nabateus esculpem sua capital nas montanhas de arenito.",
+    "searchTerms": ["Petra"]
+  },
+  {
+    "title": "Batalha de Stamford Bridge",
+    "coords": [53.9883, -0.9153],
+    "region": "Europa (Inglaterra)",
+    "desc": "O fim da Era Viking na Inglaterra.",
+    "searchTerms": ["Battle_of_Stamford_Bridge"]
+  },
+  {
+    "title": "Criação da ESA (Agência Espacial)",
+    "coords": [48.8475, 2.3025],
+    "region": "Europa (França)",
+    "desc": "Sede da agência espacial que une os países europeus.",
+    "searchTerms": ["European_Space_Agency"]
+  },
+  {
+    "title": "Batalha de Boyne",
+    "coords": [53.7214, -6.4178],
+    "region": "Europa (Irlanda)",
+    "desc": "Vitória de Guilherme de Orange que moldou a história britânica.",
+    "searchTerms": ["Battle_of_the_Boyne"]
+  },
+  {
+    "title": "Invenção do Estetoscópio",
+    "coords": [48.8510, 2.3386],
+    "region": "Europa (França)",
+    "desc": "René Laennec revoluciona a medicina diagnóstica em Paris.",
+    "searchTerms": ["Stethoscope"]
+  },
+  {
+    "title": "Batalha de Mohács",
+    "coords": [45.9911, 18.6828],
+    "region": "Europa (Hungria)",
+    "desc": "Vitória otomana que destruiu o Reino da Hungria.",
+    "searchTerms": ["Battle_of_Mohacs"]
+  },
+  {
+    "title": "Criação do Banco Central Europeu",
+    "coords": [50.1107, 8.6821],
+    "region": "Europa (Alemanha)",
+    "desc": "Estabelecimento da sede em Frankfurt para gerir o Euro.",
+    "searchTerms": ["European_Central_Bank"]
+  },
+  {
+    "title": "Batalha de Marengo",
+    "coords": [44.8942, 8.6817],
+    "region": "Europa (Itália)",
+    "desc": "Napoleão consolida seu poder como Primeiro Cônsul.",
+    "searchTerms": ["Battle_of_Marengo"]
+  },
+  {
+    "title": "Fundação do Califado de Córdoba",
+    "coords": [37.8881, -4.7794],
+    "region": "Europa (Espanha)",
+    "desc": "O auge da cultura islâmica na Península Ibérica.",
+    "searchTerms": ["Caliphate_of_Cordoba"]
+  },
+  {
+    "title": "Batalha de Ayacucho",
+    "coords": [-13.0642, -74.1272],
+    "region": "América do Sul (Peru)",
+    "desc": "A batalha que selou a independência da América do Sul.",
+    "searchTerms": ["Battle_of_Ayacucho"]
+  },
+  {
+    "title": "Primeira Ascensão do Everest",
+    "coords": [27.9881, 86.9250],
+    "region": "Ásia (Himalaia)",
+    "desc": "Edmund Hillary e Tenzing Norgay conquistam o topo do mundo.",
+    "searchTerms": ["Mount_Everest"]
+  },
+  {
+    "title": "Batalha de Fredericksburg",
+    "coords": [38.3000, -77.4667],
+    "region": "América do Norte (EUA)",
+    "desc": "Uma derrota amarga para as forças da União.",
+    "searchTerms": ["Battle_of_Fredericksburg"]
+  },
+  {
+    "title": "Independência do Quênia",
+    "coords": [-1.2833, 36.8167],
+    "region": "África Oriental",
+    "desc": "Jomo Kenyatta torna-se o primeiro líder após o domínio britânico.",
+    "searchTerms": ["History_of_Kenya"]
+  },
+  {
+    "title": "Fundação de Timbuktu",
+    "coords": [16.7666, -3.0026],
+    "region": "África Ocidental (Mali)",
+    "desc": "Centro lendário de comércio de ouro e manuscritos islâmicos.",
+    "searchTerms": ["Timbuktu"]
+  },
+  {
+    "title": "Batalha de Guadalcanal",
+    "coords": [-9.4456, 159.9728],
+    "region": "Oceania (Ilhas Salomão)",
+    "desc": "Ofensiva decisiva contra o avanço japonês.",
+    "searchTerms": ["Guadalcanal_Campaign"]
+  },
+  {
+    "title": "Inauguração da Ponte de Brooklyn",
+    "coords": [40.7061, -73.9969],
+    "region": "América do Norte (EUA)",
+    "desc": "Obra-prima de suspensão que uniu Manhattan ao Brooklyn.",
+    "searchTerms": ["Brooklyn_Bridge"]
+  },
+  {
+    "title": "Batalha de Actium",
+    "coords": [38.9333, 20.7667],
+    "region": "Europa (Grécia)",
+    "desc": "Otaviano derrota Marco Antônio e Cleópatra.",
+    "searchTerms": ["Battle_of_Actium"]
+  },
+  {
+    "title": "Expulsão dos Mouros (Granada)",
+    "coords": [37.1773, -3.5986],
+    "region": "Europa (Espanha)",
+    "desc": "Os Reis Católicos concluem a Reconquista.",
+    "searchTerms": ["Granada_War"]
+  },
+  {
+    "title": "Batalha de Somme",
+    "coords": [50.0167, 2.6833],
+    "region": "Europa (França)",
+    "desc": "Um dos confrontos mais letais da 1ª Guerra Mundial.",
+    "searchTerms": ["Battle_of_the_Somme"]
+  },
+  {
+    "title": "Independência de Angola",
+    "coords": [-8.8383, 13.2344],
+    "region": "África (Angola)",
+    "desc": "O fim do domínio português após anos de guerra.",
+    "searchTerms": ["Angolan_War_of_Independence"]
+  },
+  {
+    "title": "Batalha de San Juan Hill",
+    "coords": [20.0167, -75.8167],
+    "region": "Américas (Cuba)",
+    "desc": "Confronto icônico da Guerra Hispano-Americana.",
+    "searchTerms": ["Battle_of_San_Juan_Hill"]
+  },
+  {
+    "title": "Fundação da Royal Society",
+    "coords": [51.5074, -0.1278],
+    "region": "Europa (Inglaterra)",
+    "desc": "A instituição que impulsionou a revolução científica.",
+    "searchTerms": ["Royal_Society"]
+  },
+  {
+    "title": "Conferência de Yalta",
+    "coords": [44.4795, 34.1495],
+    "region": "Europa (Crimeia)",
+    "desc": "Líderes aliados planejam a divisão do mundo pós-2ª Guerra.",
+    "searchTerms": ["Yalta_Conference"]
+  },
+  {
+    "title": "Independência do Sudão do Sul",
+    "coords": [4.8517, 31.5822],
+    "region": "África",
+    "desc": "O país mais jovem do mundo conquista a soberania.",
+    "searchTerms": ["History_of_South_Sudan"]
+  },
+  {
+    "title": "Batalha de Rocroi (Flandres)",
+    "coords": [49.9250, 4.5208],
+    "region": "Europa (França)",
+    "desc": "Vitória francesa que quebrou a invencibilidade espanhola.",
+    "searchTerms": ["Rocroi"]
+  },
+  {
+    "title": "Fundação da Microsoft",
+    "coords": [35.0844, -106.6504],
+    "region": "América do Norte (EUA)",
+    "desc": "Bill Gates e Paul Allen fundam a empresa em Albuquerque.",
+    "searchTerms": ["Microsoft"]
+  },
+  {
+    "title": "Batalha de Gettysburg",
+    "coords": [39.8281, -77.2311],
+    "region": "América do Norte (EUA)",
+    "desc": "O ponto de virada da Guerra Civil Americana.",
+    "searchTerms": ["Battle_of_Gettysburg"]
+  },
+  {
+    "title": "Inauguração do Eurotúnel",
+    "coords": [50.9200, 1.8100],
+    "region": "Europa (França/UK)",
+    "desc": "O canal subaquático que uniu Londres a Paris.",
+    "searchTerms": ["Channel_Tunnel"]
+  },
+  {
+    "title": "Criação da Interpol (Sede)",
+    "coords": [45.7831, 4.8519],
+    "region": "Europa (França)",
+    "desc": "Estabelecimento da polícia internacional em Lyon.",
+    "searchTerms": ["Interpol"]
+  },
+  {
+    "title": "Batalha de Iwo Jima",
+    "coords": [24.7500, 141.2833],
+    "region": "Extremo Oriente",
+    "desc": "Combate brutal simbolizado pelo erguer da bandeira no Suribachi.",
+    "searchTerms": ["Iwo_Jima"]
+  },
+  {
+    "title": "Fundação de Alexandria (Egito)",
+    "coords": [31.2001, 29.9187],
+    "region": "África (Egito)",
+    "desc": "O porto que ligou o Egito ao mundo mediterrâneo.",
+    "searchTerms": ["Alexandria"]
+  },
+  {
+    "title": "Batalha de Balaclava",
+    "coords": [44.5094, 33.6014],
+    "region": "Europa (Crimeia)",
+    "desc": "O cenário da famosa Carga da Brigada Ligeira.",
+    "searchTerms": ["Battle_of_Balaclava"]
+  },
+  {
+    "title": "Invenção do Radar",
+    "coords": [56.4680, -3.0100],
+    "region": "Europa (Escócia)",
+    "desc": "Robert Watson-Watt demonstra o potencial do rádio para detecção.",
+    "searchTerms": ["Radar"]
+  },
+  {
+    "title": "Independência do Haiti",
+    "coords": [18.5392, -72.3350],
+    "region": "Américas (Caribe)",
+    "desc": "A primeira república negra independente das Américas.",
+    "searchTerms": ["Haitian_Revolution"]
+  },
+  {
+    "title": "Batalha de Borodino",
+    "coords": [55.5167, 35.8167],
+    "region": "Europa (Rússia)",
+    "desc": "O sangrento embate entre Napoleão e as forças do Czar.",
+    "searchTerms": ["Battle_of_Borodino"]
   }]
