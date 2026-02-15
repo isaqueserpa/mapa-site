@@ -698,4 +698,564 @@
     "region": "América do Norte (Califórnia)",
     "desc": "O nascimento do entretenimento moderno de parques temáticos.",
     "searchTerms": ["Disneyland"]
-  }
+  },
+  {
+    "title": "Batalha de Iwo Jima",
+    "coords": [24.7500, 141.2833],
+    "region": "Oceano Pacífico",
+    "desc": "A famosa imagem dos fuzileiros erguendo a bandeira no Monte Suribachi.",
+    "searchTerms": ["Battle_of_Iwo_Jima"]
+  },
+  {
+    "title": "Concílio de Niceia",
+    "coords": [40.4286, 29.7214],
+    "region": "Ásia Menor (Turquia)",
+    "desc": "O encontro que definiu os fundamentos do cristianismo moderno.",
+    "searchTerms": ["First_Council_of_Nicaea"]
+  },
+  {
+    "title": "Inauguração da Torre Eiffel",
+    "coords": [48.8584, 2.2945],
+    "region": "Europa (França)",
+    "desc": "Construída para a Exposição Universal de 1889 em Paris.",
+    "searchTerms": ["Eiffel_Tower"]
+  },
+  {
+    "title": "Batalha de Little Bighorn",
+    "coords": [45.5661, -107.4269],
+    "region": "América do Norte (EUA)",
+    "desc": "A vitória dos Lakota e Cheyenne contra o 7º Regimento de Cavalaria.",
+    "searchTerms": ["Battle_of_the_Little_Bighorn"]
+  },
+  {
+    "title": "Império Khmer (Angkor)",
+    "coords": [13.4125, 103.8670],
+    "region": "Sudeste Asiático",
+    "desc": "O auge da civilização que dominou grande parte da Indochina.",
+    "searchTerms": ["Khmer_Empire"]
+  },
+  {
+    "title": "Guerra do Golfo (Operação Tempestade no Deserto)",
+    "coords": [29.3759, 47.9774],
+    "region": "Oriente Médio (Kuwait)",
+    "desc": "A coalizão internacional liderada pelos EUA libera o Kuwait.",
+    "searchTerms": ["Gulf_War"]
+  },
+  {
+    "title": "Tratado de Latrão",
+    "coords": [41.8858, 12.5056],
+    "region": "Europa (Itália)",
+    "desc": "A criação oficial do Estado do Vaticano como país independente.",
+    "searchTerms": ["Lateran_Treaty"]
+  },
+  {
+    "title": "Cerco de Leningrado",
+    "coords": [59.9343, 30.3351],
+    "region": "Europa (Rússia)",
+    "desc": "Um dos cercos mais longos e destrutivos da história mundial.",
+    "searchTerms": ["Siege_of_Leningrad"]
+  },
+  {
+    "title": "Revolução dos Cravos",
+    "coords": [38.7223, -9.1393],
+    "region": "Europa (Portugal)",
+    "desc": "O movimento que derrubou a ditadura salazarista pacificamente.",
+    "searchTerms": ["Carnation_Revolution"]
+  },
+  {
+    "title": "A Primeira Ferrovia Transcontinental",
+    "coords": [41.6111, -112.5514],
+    "region": "América do Norte (EUA)",
+    "desc": "O encontro dos trilhos que uniu o Atlântico ao Pacífico.",
+    "searchTerms": ["First_transcontinental_railroad"]
+  },
+  {
+    "title": "Guerra dos Seis Dias",
+    "coords": [31.5000, 34.7500],
+    "region": "Oriente Médio",
+    "desc": "O conflito que mudou drasticamente as fronteiras da região em 1967.",
+    "searchTerms": ["Six-Day_War"]
+  },
+  {
+    "title": "Ponte Golden Gate (Inauguração)",
+    "coords": [37.8199, -122.4783],
+    "region": "América do Norte (EUA)",
+    "desc": "A conclusão do ícone da engenharia em San Francisco.",
+    "searchTerms": ["Golden_Gate_Bridge"]
+  },
+  {
+    "title": "Batalha de Agincourt",
+    "coords": [50.4641, 2.1417],
+    "region": "Europa (França)",
+    "desc": "A vitória decisiva dos arqueiros ingleses na Guerra dos Cem Anos.",
+    "searchTerms": ["Battle_of_Agincourt"]
+  },
+  {
+    "title": "Tratado de Portsmouth",
+    "coords": [43.0717, -70.7625],
+    "region": "América do Norte",
+    "desc": "O acordo que encerrou a Guerra Russo-Japonesa.",
+    "searchTerms": ["Treaty_of_Portsmouth"]
+  },
+  {
+    "title": "Construção do Canal de Corinto",
+    "coords": [37.9344, 22.9839],
+    "region": "Europa (Grécia)",
+    "desc": "A abertura da via que corta o istmo da Grécia.",
+    "searchTerms": ["Corinth_Canal"]
+  },
+  {
+    "title": "Explosão do Vulcão Krakatoa",
+    "coords": [-6.1020, 105.4230],
+    "region": "Sudeste Asiático (Indonésia)",
+    "desc": "Uma das erupções mais violentas já registradas na história moderna.",
+    "searchTerms": ["1883_eruption_of_Krakatoa"]
+  },
+  {
+    "title": "Revolução Gloriosa",
+    "coords": [51.5074, -0.1278],
+    "region": "Europa (Inglaterra)",
+    "desc": "A transição para a monarquia parlamentarista sem derramamento de sangue.",
+    "searchTerms": ["Glorious_Revolution"]
+  },
+  {
+    "title": "Primeira Expedição ao Polo Sul",
+    "coords": [-90.0000, 0.0000],
+    "region": "Antártida",
+    "desc": "Roald Amundsen torna-se o primeiro homem a atingir o Polo Sul.",
+    "searchTerms": ["Amundsen's_South_Pole_expedition"]
+  },
+  {
+    "title": "Invasão do Kuwait",
+    "coords": [29.3117, 47.4817],
+    "region": "Oriente Médio",
+    "desc": "O evento que desencadeou a Guerra do Golfo.",
+    "searchTerms": ["Invasion_of_Kuwait"]
+  },
+  {
+    "title": "Conferência de Yalta",
+    "coords": [44.4795, 34.1495],
+    "region": "Europa (Crimeia)",
+    "desc": "Churchill, Roosevelt e Stalin decidem o futuro da Europa pós-guerra.",
+    "searchTerms": ["Yalta_Conference"]
+  },
+  {
+    "title": "Batalha de Salamina",
+    "coords": [37.9500, 23.5667],
+    "region": "Europa (Grécia)",
+    "desc": "A vitória naval grega que impediu a invasão persa de Xerxes.",
+    "searchTerms": ["Battle_of_Salamis"]
+  },
+  {
+    "title": "Fundação de Cartago",
+    "coords": [36.8529, 10.3217],
+    "region": "Norte da África (Tunísia)",
+    "desc": "A criação da poderosa cidade fenícia rival de Roma.",
+    "searchTerms": ["Carthage"]
+  },
+  {
+    "title": "A Primeira Cruzada (Cerco de Antioquia)",
+    "coords": [36.2025, 36.1606],
+    "region": "Oriente Médio (Turquia)",
+    "desc": "Um dos cercos mais difíceis e cruciais para o caminho até Jerusalém.",
+    "searchTerms": ["Siege_of_Antioch"]
+  },
+  {
+    "title": "Invenção do Telefone (Patente)",
+    "coords": [42.3601, -71.0589],
+    "region": "América do Norte (Boston)",
+    "desc": "Alexander Graham Bell registra a invenção que encurtou distâncias.",
+    "searchTerms": ["Alexander_Graham_Bell"]
+  },
+  {
+    "title": "Construção do Taj Mahal",
+    "coords": [27.1751, 78.0421],
+    "region": "Ásia Meridional (Índia)",
+    "desc": "O mausoléu de mármore branco erguido pelo Imperador Shah Jahan.",
+    "searchTerms": ["Taj_Mahal"]
+  },
+  {
+    "title": "Cercamento de Berlim Ocidental (Bloqueio)",
+    "coords": [52.5200, 13.4050],
+    "region": "Europa (Alemanha)",
+    "desc": "O bloqueio soviético que forçou o envio de suprimentos por aviões.",
+    "searchTerms": ["Berlin_Blockade"]
+  },
+  {
+    "title": "Primeiro Uso da Bússola em Navegação",
+    "coords": [29.8683, 121.5440],
+    "region": "Extremo Oriente (China)",
+    "desc": "A tecnologia chinesa que permitiu as grandes navegações em mar aberto.",
+    "searchTerms": ["History_of_the_compass"]
+  },
+  {
+    "title": "Fundação de São Petersburgo",
+    "coords": [59.9343, 30.3351],
+    "region": "Europa (Rússia)",
+    "desc": "Pedro, o Grande, constrói sua 'Janela para o Ocidente'.",
+    "searchTerms": ["Saint_Petersburg"]
+  },
+  {
+    "title": "Independência do Canadá",
+    "coords": [45.4215, -75.6972],
+    "region": "América do Norte",
+    "desc": "A formação da Confederação Canadense em 1867.",
+    "searchTerms": ["History_of_Canada"]
+  },
+  {
+    "title": "A Grande Muralha do Zimbábue",
+    "coords": [-20.2675, 30.9333],
+    "region": "África Subsaariana",
+    "desc": "A imponente arquitetura de pedra do Reino do Zimbábue.",
+    "searchTerms": ["Great_Zimbabwe"]
+  },
+  {
+    "title": "Revolução Industrial (Primeira Fábrica Têxtil)",
+    "coords": [53.0253, -1.4828],
+    "region": "Europa (Inglaterra)",
+    "desc": "Cromford Mill, a primeira fábrica movida a água de Arkwright.",
+    "searchTerms": ["Richard_Arkwright"]
+  },
+  {
+    "title": "Expedição de Vasco da Gama",
+    "coords": [-34.3568, 18.4714],
+    "region": "África (Cabo da Boa Esperança)",
+    "desc": "O navegador português contorna a África rumo à Índia.",
+    "searchTerms": ["Vasco_da_Gama"]
+  },
+  {
+    "title": "Paz de Vestfália",
+    "coords": [51.9607, 7.6261],
+    "region": "Europa (Alemanha)",
+    "desc": "O tratado que encerrou a Guerra dos Trinta Anos e criou o sistema de Estados moderno.",
+    "searchTerms": ["Peace_of_Westphalia"]
+  },
+  {
+    "title": "Criação da Interpol",
+    "coords": [48.2082, 16.3738],
+    "region": "Europa (Áustria)",
+    "desc": "Fundada em Viena para combater o crime transnacional.",
+    "searchTerms": ["Interpol"]
+  },
+  {
+    "title": "Descoberta da Penicilina (Laboratório)",
+    "coords": [51.5162, -0.1749],
+    "region": "Europa (Londres)",
+    "desc": "Alexander Fleming descobre o primeiro antibiótico por acidente.",
+    "searchTerms": ["Alexander_Fleming"]
+  },
+  {
+    "title": "Batalha de Lepanto",
+    "coords": [38.3333, 21.3333],
+    "region": "Mar Mediterrâneo",
+    "desc": "A grande vitória naval da Liga Santa sobre o Império Otomano.",
+    "searchTerms": ["Battle_of_Lepanto"]
+  },
+  {
+    "title": "Fundação da Cruz Vermelha",
+    "coords": [46.2044, 6.1432],
+    "region": "Europa (Suíça)",
+    "desc": "Henry Dunant cria a organização humanitária em Genebra.",
+    "searchTerms": ["International_Red_Cross_and_Red_Crescent_Movement"]
+  },
+  {
+    "title": "Cerco de Massada",
+    "coords": [31.3155, 35.3539],
+    "region": "Oriente Médio (Israel)",
+    "desc": "O dramático fim da resistência judaica contra as legiões romanas.",
+    "searchTerms": ["Masada"]
+  },
+  {
+    "title": "Viagem do HMS Beagle",
+    "coords": [-54.8019, -68.3030],
+    "region": "América do Sul (Terra do Fogo)",
+    "desc": "Charles Darwin realiza observações fundamentais para a Teoria da Evolução.",
+    "searchTerms": ["Second_voyage_of_HMS_Beagle"]
+  },
+  {
+    "title": "Tratado de Trianon",
+    "coords": [48.8111, 2.1125],
+    "region": "Europa (Versalhes)",
+    "desc": "O acordo que definiu as fronteiras da Hungria pós-Primeira Guerra.",
+    "searchTerms": ["Treaty_of_Trianon"]
+  },
+  {
+    "title": "A Primeira Linha de Telégrafo",
+    "coords": [38.8977, -77.0365],
+    "region": "América do Norte (EUA)",
+    "desc": "Samuel Morse envia a primeira mensagem oficial entre Washington e Baltimore.",
+    "searchTerms": ["Samuel_Morse"]
+  },
+  {
+    "title": "Batalha de Borodino",
+    "coords": [55.5167, 35.8167],
+    "region": "Europa (Rússia)",
+    "desc": "O confronto mais sangrento das Guerras Napoleônicas durante a invasão da Rússia.",
+    "searchTerms": ["Battle_of_Borodino"]
+  },
+  {
+    "title": "Fundação de Tenochtitlán",
+    "coords": [19.4326, -99.1332],
+    "region": "América do Norte (México)",
+    "desc": "Os astecas fundam sua capital onde viram uma águia sobre um cacto.",
+    "searchTerms": ["Tenochtitlan"]
+  },
+  {
+    "title": "Expulsão dos Jesuítas (Paraguai)",
+    "coords": [-27.0500, -55.6667],
+    "region": "América do Sul",
+    "desc": "O fim das Missões Jesuíticas que protegiam os indígenas Guaranis.",
+    "searchTerms": ["Jesuit_Reductions"]
+  },
+  {
+    "title": "Revolução Industrial (O Primeiro Automóvel)",
+    "coords": [48.8100, 9.2000],
+    "region": "Europa (Alemanha)",
+    "desc": "Karl Benz patenteia o primeiro carro movido a gasolina em Mannheim.",
+    "searchTerms": ["Karl_Benz"]
+  },
+  {
+    "title": "Abertura do Japão (Comodoro Perry)",
+    "coords": [35.2810, 139.6670],
+    "region": "Extremo Oriente",
+    "desc": "Navios negros dos EUA forçam o fim do isolamento japonês em Uraga.",
+    "searchTerms": ["Matthew_C._Perry"]
+  },
+  {
+    "title": "Guerra da Coreia (Inchon)",
+    "coords": [37.4563, 126.7052],
+    "region": "Extremo Oriente",
+    "desc": "O desembarque anfíbio audacioso liderado por Douglas MacArthur.",
+    "searchTerms": ["Battle_of_Inchon"]
+  },
+  {
+    "title": "Incidente em Sarajevo",
+    "coords": [43.8578, 18.4250],
+    "region": "Europa (Bósnia)",
+    "desc": "O assassinato do Arquiduque Franz Ferdinand na Ponte Latina.",
+    "searchTerms": ["Assassination_of_Archduke_Franz_Ferdinand"]
+  },
+  {
+    "title": "Criação da União Europeia (Tratado de Maastricht)",
+    "coords": [50.8514, 5.6908],
+    "region": "Europa (Países Baixos)",
+    "desc": "O acordo que transformou a comunidade econômica em união política.",
+    "searchTerms": ["Maastricht_Treaty"]
+  },
+  {
+    "title": "Guerra Civil Chinesa (Xangai)",
+    "coords": [31.2304, 121.4737],
+    "region": "Extremo Oriente",
+    "desc": "O massacre de 1927 que iniciou o longo conflito interno na China.",
+    "searchTerms": ["Shanghai_massacre"]
+  },
+  {
+    "title": "Expedição de Roald Amundsen (Polo Sul)",
+    "coords": [-90.0000, 0.0000],
+    "region": "Antártida",
+    "desc": "A primeira equipe a chegar ao ponto mais ao sul da Terra.",
+    "searchTerms": ["Amundsen's_South_Pole_expedition"]
+  },
+  {
+    "title": "Criação da OTAN",
+    "coords": [38.8951, -77.0364],
+    "region": "América do Norte (EUA)",
+    "desc": "Assinatura do Tratado do Atlântico Norte em Washington.",
+    "searchTerms": ["NATO"]
+  },
+  {
+    "title": "Independência de Angola",
+    "coords": [-8.8383, 13.2344],
+    "region": "África Subsaariana",
+    "desc": "O fim do domínio colonial português após a Revolução dos Cravos.",
+    "searchTerms": ["Angolan_War_of_Independence"]
+  },
+  {
+    "title": "A Queima da Biblioteca de Alexandria",
+    "coords": [31.2089, 29.9092],
+    "region": "Norte da África (Egito)",
+    "desc": "A perda inestimável do maior centro de saber da antiguidade.",
+    "searchTerms": ["Destruction_of_the_Library_of_Alexandria"]
+  },
+  {
+    "title": "Batalha de Waterloo (Quartel-General)",
+    "coords": [50.6850, 4.4100],
+    "region": "Europa (Bélgica)",
+    "desc": "A derrota definitiva de Napoleão frente a Wellington e Blücher.",
+    "searchTerms": ["Battle_of_Waterloo"]
+  },
+  {
+    "title": "Invenção da Lâmpada Incandescente",
+    "coords": [40.5600, -74.3300],
+    "region": "América do Norte (Menlo Park)",
+    "desc": "Thomas Edison demonstra a primeira lâmpada comercialmente viável.",
+    "searchTerms": ["Thomas_Edison"]
+  },
+  {
+    "title": "Ocupação do Tibete",
+    "coords": [29.6500, 91.1167],
+    "region": "Ásia Central",
+    "desc": "A entrada das tropas chinesas em Lhasa e o exílio do Dalai Lama.",
+    "searchTerms": ["History_of_Tibet_(1950–present)"]
+  },
+  {
+    "title": "Guerra da Independência Turca",
+    "coords": [39.9333, 32.8597],
+    "region": "Ásia Menor (Ancara)",
+    "desc": "Mustafa Kemal Atatürk lidera a formação da moderna República da Turquia.",
+    "searchTerms": ["Turkish_War_of_Independence"]
+  },
+  {
+    "title": "Tratado de Nanquim",
+    "coords": [32.0603, 118.7969],
+    "region": "Extremo Oriente (China)",
+    "desc": "O primeiro dos 'Tratados Desiguais' que cedeu Hong Kong aos britânicos.",
+    "searchTerms": ["Treaty_of_Nanking"]
+  },
+  {
+    "title": "Batalha de El Alamein",
+    "coords": [30.8333, 28.9500],
+    "region": "Norte da África (Egito)",
+    "desc": "A vitória aliada que impediu o avanço nazista rumo ao Canal de Suez.",
+    "searchTerms": ["Second_Battle_of_El_Alamein"]
+  },
+  {
+    "title": "Descoberta da Tumba de Tutancâmon",
+    "coords": [25.7408, 32.6014],
+    "region": "Norte da África (Egito)",
+    "desc": "Howard Carter encontra o tesouro intacto no Vale dos Reis.",
+    "searchTerms": ["KV62"]
+  },
+  {
+    "title": "Criação da World Wide Web",
+    "coords": [46.2333, 6.0491],
+    "region": "Europa (Suíça)",
+    "desc": "Tim Berners-Lee inventa a Web no laboratório do CERN.",
+    "searchTerms": ["World_Wide_Web"]
+  },
+  {
+    "title": "Batalha de Cannae",
+    "coords": [41.2961, 16.1481],
+    "region": "Europa (Itália)",
+    "desc": "Aníbal destrói o exército romano em uma manobra de cerco perfeita.",
+    "searchTerms": ["Battle_of_Cannae"]
+  },
+  {
+    "title": "Primeira Transmissão de Rádio",
+    "coords": [50.6403, -4.5122],
+    "region": "Europa (Inglaterra)",
+    "desc": "Marconi envia o primeiro sinal de rádio através do Atlântico.",
+    "searchTerms": ["Guglielmo_Marconi"]
+  },
+  {
+    "title": "Revolução Industrial (Tear Mecânico)",
+    "coords": [53.5444, -2.1167],
+    "region": "Europa (Inglaterra)",
+    "desc": "Edmund Cartwright patenteia o tear que mecanizou a tecelagem.",
+    "searchTerms": ["Power_loom"]
+  },
+  {
+    "title": "Cerco de Orleans",
+    "coords": [47.9030, 1.9080],
+    "region": "Europa (França)",
+    "desc": "Joana d'Arc lidera a vitória francesa na Guerra dos Cem Anos.",
+    "searchTerms": ["Siege_of_Orléans"]
+  },
+  {
+    "title": "Fundação da Companhia das Índias Orientais",
+    "coords": [51.5117, -0.0833],
+    "region": "Europa (Londres)",
+    "desc": "O nascimento da corporação que dominou o comércio na Ásia.",
+    "searchTerms": ["East_India_Company"]
+  },
+  {
+    "title": "Independência do Vietnã",
+    "coords": [21.0285, 105.8542],
+    "region": "Sudeste Asiático",
+    "desc": "Ho Chi Minh declara a independência na Praça Ba Dinh.",
+    "searchTerms": ["Proclamation_of_Independence_of_the_Democratic_Republic_of_Vietnam"]
+  },
+  {
+    "title": "Expedição de Magalhães (Filipinas)",
+    "coords": [10.2975, 123.9069],
+    "region": "Sudeste Asiático",
+    "desc": "O local onde o navegador Fernão de Magalhães foi morto em batalha.",
+    "searchTerms": ["Battle_of_Mactan"]
+  },
+  {
+    "title": "Guerra da Coreia (Desembarque de Incheon)",
+    "coords": [37.4563, 126.7052],
+    "region": "Extremo Oriente",
+    "desc": "A manobra anfíbia que mudou o curso da guerra na Coreia.",
+    "searchTerms": ["Battle_of_Inchon"]
+  },
+  {
+    "title": "Fundação de Nova Amsterdã (Nova York)",
+    "coords": [40.7055, -74.0134],
+    "region": "América do Norte",
+    "desc": "Holandeses estabelecem o posto comercial que viria a ser Manhattan.",
+    "searchTerms": ["New_Amsterdam"]
+  },
+  {
+    "title": "Paz de Augsburgo",
+    "coords": [48.3665, 10.8944],
+    "region": "Europa (Alemanha)",
+    "desc": "O tratado que reconheceu o Luteranismo no Sacro Império Romano.",
+    "searchTerms": ["Peace_of_Augsburg"]
+  },
+  {
+    "title": "Batalha de Zama",
+    "coords": [36.1083, 9.4444],
+    "region": "Norte da África (Tunísia)",
+    "desc": "Cipião Africano derrota Aníbal, encerrando a 2ª Guerra Púnica.",
+    "searchTerms": ["Battle_of_Zama"]
+  },
+  {
+    "title": "Primeira Ascensão do Mont Blanc",
+    "coords": [45.8326, 6.8650],
+    "region": "Europa (França/Itália)",
+    "desc": "Balmat e Paccard conquistam o topo dos Alpes em 1786.",
+    "searchTerms": ["Mont_Blanc"]
+  },
+  {
+    "title": "Incidente do Golfo de Tonquim",
+    "coords": [19.0000, 107.0000],
+    "region": "Sudeste Asiático",
+    "desc": "O evento que justificou o aumento do envolvimento dos EUA no Vietnã.",
+    "searchTerms": ["Gulf_of_Tonkin_incident"]
+  },
+  {
+    "title": "Fundação de Cuzco",
+    "coords": [-13.5319, -71.9675],
+    "region": "América do Sul (Peru)",
+    "desc": "A capital sagrada e o 'umbigo do mundo' para os Incas.",
+    "searchTerms": ["Cusco"]
+  },
+  {
+    "title": "Construção do Muro de Berlim",
+    "coords": [52.5161, 13.3769],
+    "region": "Europa (Alemanha)",
+    "desc": "A divisão física entre o Leste e o Oeste durante a Guerra Fria.",
+    "searchTerms": ["Berlin_Wall"]
+  },
+  {
+    "title": "Descoberta da Antártida",
+    "coords": [-64.2167, -61.0000],
+    "region": "Antártida",
+    "desc": "A primeira avistagem confirmada do continente gelado em 1820.",
+    "searchTerms": ["History_of_Antarctica"]
+  },
+  {
+    "title": "Batalha de Verdun",
+    "coords": [49.1842, 5.4244],
+    "region": "Europa (França)",
+    "desc": "A batalha mais longa e sangrenta da Primeira Guerra Mundial.",
+    "searchTerms": ["Battle_of_Verdun"]
+  },
+  {
+    "title": "Conclusão do Túnel da Mancha",
+    "coords": [50.9200, 1.8100],
+    "region": "Europa",
+    "desc": "A ligação subaquática entre França e Inglaterra é inaugurada.",
+    "searchTerms": ["Channel_Tunnel"]
+  }]
