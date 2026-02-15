@@ -1,72 +1,701 @@
 [
+
   {
+
     "title": "Queda de Constantinopla",
+
     "coords": [41.0082, 28.9784],
+
     "region": "Europa",
+
     "desc": "O fim do Império Bizantino.",
+
     "searchTerms": ["Fall_of_Constantinople"]
+
   },
+
   {
+
     "title": "Batalha de Waterloo",
+
     "coords": [50.6850, 4.4100],
+
     "region": "Europa",
+
     "desc": "O destino de Napoleão selado na Bélgica.",
+
     "searchTerms": ["Battle_of_Waterloo"]
+
   },
+
   {
+
     "title": "Vale do Indo",
+
     "coords": [27.3297, 68.1389],
+
     "region": "Ásia Meridional (Subcontinente Indiano)",
+
     "desc": "Mohenjo-daro e o florescimento urbano.",
+
     "searchTerms": ["Indus_Valley_Civilisation"]
+
   },
+
   {
+
     "title": "Surgimento do Islã",
+
     "coords": [21.4225, 39.8262],
+
     "region": "Península Arábica",
+
     "desc": "A revelação em Meca.",
+
     "searchTerms": ["History_of_Islam"]
+
   },
+
   {
+
     "title": "Samurais de Edo",
+
     "coords": [35.6895, 139.6917],
+
     "region": "Extremo Oriente (China/Japão/Coréia)",
+
     "desc": "O auge dos guerreiros no Japão.",
+
     "searchTerms": ["Samurai"]
+
   },
+
   {
+
     "title": "Pirâmides de Gizé",
+
     "coords": [29.9792, 31.1342],
+
     "region": "Norte da África",
+
     "desc": "Os colossos eternos dos Faraós.",
+
     "searchTerms": ["Great_Pyramid_of_Giza"]
+
   },
+
   {
+
     "title": "Império Mali",
+
     "coords": [12.6392, -8.0029],
+
     "region": "África Subsaariana",
+
     "desc": "A lendária riqueza de Mansa Musa.",
+
     "searchTerms": ["Mali_Empire"]
+
   },
+
   {
+
     "title": "Império Inca",
+
     "coords": [-13.5319, -71.9675],
+
     "region": "América do Sul",
+
     "desc": "Cusco, o Umbigo do Mundo.",
+
     "searchTerms": ["Inca_Empire"]
+
   },
+
   {
+
     "title": "Independência dos EUA",
+
     "coords": [39.9489, -75.1503],
+
     "region": "América do Norte",
+
     "desc": "O nascimento de uma nação na Filadélfia.",
+
     "searchTerms": ["American_Revolution"]
+
+  },
+
+  {
+
+    "title": "Expedição de Cook",
+
+    "coords": [-33.8688, 151.2093],
+
+    "region": "Oceania",
+
+    "desc": "A chegada britânica à Austrália.",
+
+    "searchTerms": ["James_Cook"]
+
   },
   {
-    "title": "Expedição de Cook",
-    "coords": [-33.8688, 151.2093],
-    "region": "Oceania",
-    "desc": "A chegada britânica à Austrália.",
-    "searchTerms": ["James_Cook"]
+    "title": "Revolução Francesa",
+    "coords": [48.8584, 2.2945],
+    "region": "Europa",
+    "desc": "A queda da Bastilha e o fim da monarquia absolutista.",
+    "searchTerms": ["French_Revolution"]
+  },
+  {
+    "title": "Muralha da China",
+    "coords": [40.4319, 116.5704],
+    "region": "Extremo Oriente",
+    "desc": "A gigantesca fortificação contra as invasões mongóis.",
+    "searchTerms": ["Great_Wall_of_China"]
+  },
+  {
+    "title": "Descobrimento do Brasil",
+    "coords": [-16.4478, -39.0633],
+    "region": "América do Sul",
+    "desc": "Pedro Álvares Cabral chega ao Monte Pascoal.",
+    "searchTerms": ["Discovery_of_Brazil"]
+  },
+  {
+    "title": "Ruínas de Petra",
+    "coords": [30.3285, 35.4444],
+    "region": "Oriente Médio",
+    "desc": "A cidade esculpida na rocha pelos Nabateus.",
+    "searchTerms": ["Petra"]
+  },
+  {
+    "title": "Guerra de Troia",
+    "coords": [39.9573, 26.2386],
+    "region": "Europa/Ásia Menor",
+    "desc": "O lendário conflito entre gregos e troianos.",
+    "searchTerms": ["Troy"]
+  },
+  {
+    "title": "Canal de Suez",
+    "coords": [30.5852, 32.2654],
+    "region": "Norte da África",
+    "desc": "A obra que ligou o Mediterrâneo ao Mar Vermelho.",
+    "searchTerms": ["Suez_Canal"]
+  },
+  {
+    "title": "Bombardeio de Hiroshima",
+    "coords": [34.3853, 132.4546],
+    "region": "Extremo Oriente",
+    "desc": "O primeiro uso de uma arma nuclear em guerra.",
+    "searchTerms": ["Atomic_bombings_of_Hiroshima_and_Nagasaki"]
+  },
+  {
+    "title": "Grande Zimbábue",
+    "coords": [-20.2675, 30.9333],
+    "region": "África Subsaariana",
+    "desc": "O centro de um vasto império comercial africano.",
+    "searchTerms": ["Great_Zimbabwe"]
+  },
+  {
+    "title": "Tratado de Tordesilhas",
+    "coords": [41.5020, -4.9910],
+    "region": "Europa",
+    "desc": "A linha que dividiu o 'Novo Mundo' entre Portugal e Espanha.",
+    "searchTerms": ["Treaty_of_Tordesillas"]
+  },
+  {
+    "title": "Angkor Wat",
+    "coords": [13.4125, 103.8670],
+    "region": "Sudeste Asiático",
+    "desc": "O majestoso templo do Império Khmer.",
+    "searchTerms": ["Angkor_Wat"]
+  },
+  {
+    "title": "Revolução Russa",
+    "coords": [59.9311, 30.3609],
+    "region": "Europa/Ásia",
+    "desc": "A ascensão dos Bolcheviques e o fim dos Czares.",
+    "searchTerms": ["Russian_Revolution"]
+  },
+  {
+    "title": "Tenochtitlán (Império Asteca)",
+    "coords": [19.4326, -99.1332],
+    "region": "América do Norte/Central",
+    "desc": "A capital asteca erguida sobre um lago.",
+    "searchTerms": ["Tenochtitlan"]
+  },
+  {
+    "title": "Partenon de Atenas",
+    "coords": [37.9715, 23.7267],
+    "region": "Europa",
+    "desc": "O auge da democracia e arquitetura grega.",
+    "searchTerms": ["Parthenon"]
+  },
+  {
+    "title": "Taj Mahal",
+    "coords": [27.1751, 78.0421],
+    "region": "Ásia Meridional",
+    "desc": "O monumento ao amor construído pelo Imperador Shah Jahan.",
+    "searchTerms": ["Taj_Mahal"]
+  },
+  {
+    "title": "Queda do Muro de Berlim",
+    "coords": [52.5163, 13.3777],
+    "region": "Europa",
+    "desc": "O símbolo do fim da Guerra Fria.",
+    "searchTerms": ["Fall_of_the_Berlin_Wall"]
+  },
+  {
+    "title": "Cidade de Tombuctu",
+    "coords": [16.7666, -3.0026],
+    "region": "África Subsaariana",
+    "desc": "O grande centro intelectual e comercial do Saara.",
+    "searchTerms": ["Timbuktu"]
+  },
+  {
+    "title": "Machu Picchu",
+    "coords": [-13.1631, -72.5450],
+    "region": "América do Sul",
+    "desc": "A cidade perdida dos Incas nas montanhas.",
+    "searchTerms": ["Machu_Picchu"]
+  },
+  {
+    "title": "Coliseu de Roma",
+    "coords": [41.8902, 12.4922],
+    "region": "Europa",
+    "desc": "O palco dos gladiadores no coração do Império Romano.",
+    "searchTerms": ["Colosseum"]
+  },
+  {
+    "title": "Linha de Nazca",
+    "coords": [-14.7390, -75.1300],
+    "region": "América do Sul",
+    "desc": "Geoglifos misteriosos visíveis apenas do céu.",
+    "searchTerms": ["Nazca_Lines"]
+  },
+  {
+    "title": "Caminho da Seda (Samarcanda)",
+    "coords": [39.6542, 66.9597],
+    "region": "Ásia Central",
+    "desc": "O ponto de encontro entre o Oriente e o Ocidente.",
+    "searchTerms": ["Samarkand"]
+  },
+  {
+    "title": "A Viagem de Colombo",
+    "coords": [24.0600, -74.4700],
+    "region": "Américas (Caribe)",
+    "desc": "A chegada europeia nas Bahamas, mudando o mapa do mundo.",
+    "searchTerms": ["Voyages_of_Christopher_Columbus"]
+  },
+  {
+    "title": "Desastre de Chernobyl",
+    "coords": [51.2741, 30.2241],
+    "region": "Europa (Ucrânia)",
+    "desc": "O maior acidente nuclear da história.",
+    "searchTerms": ["Chernobyl_disaster"]
+  },
+  {
+    "title": "Primeira Guerra Mundial (Sarajevo)",
+    "coords": [43.8586, 18.4219],
+    "region": "Europa (Bálcãs)",
+    "desc": "O atentado que serviu de estopim para o conflito global.",
+    "searchTerms": ["Assassination_of_Archduke_Franz_Ferdinand"]
+  },
+  {
+    "title": "Revolução de Meiji",
+    "coords": [35.6852, 139.7528],
+    "region": "Extremo Oriente (Japão)",
+    "desc": "A modernização acelerada que transformou o Japão em potência.",
+    "searchTerms": ["Meiji_Restoration"]
+  },
+  {
+    "title": "A Longa Marcha",
+    "coords": [25.9083, 114.9458],
+    "region": "Extremo Oriente (China)",
+    "desc": "A retirada estratégica que consolidou o Partido Comunista Chinês.",
+    "searchTerms": ["Long_March"]
+  },
+  {
+    "title": "Descobrimento da Penicilina",
+    "coords": [51.5162, -0.1749],
+    "region": "Europa (Londres)",
+    "desc": "Alexander Fleming revoluciona a medicina no Hospital St. Mary.",
+    "searchTerms": ["History_of_penicillin"]
+  },
+  {
+    "title": "Batalha de Stalingrado",
+    "coords": [48.7080, 44.5133],
+    "region": "Europa/Ásia (Rússia)",
+    "desc": "O ponto de virada decisivo contra a Alemanha Nazista.",
+    "searchTerms": ["Battle_of_Stalingrad"]
+  },
+  {
+    "title": "As Cruzadas (Tomada de Jerusalém)",
+    "coords": [31.7767, 35.2345],
+    "region": "Oriente Médio",
+    "desc": "O violento cerco na Primeira Cruzada.",
+    "searchTerms": ["Siege_of_Jerusalem_(1099)"]
+  },
+  {
+    "title": "Independência da Índia",
+    "coords": [28.6129, 77.2295],
+    "region": "Ásia Meridional",
+    "desc": "A resistência não-violenta de Gandhi contra o Império Britânico.",
+    "searchTerms": ["Indian_independence_movement"]
+  },
+  {
+    "title": "Criação da ONU",
+    "coords": [37.7749, -122.4194],
+    "region": "América do Norte",
+    "desc": "A conferência de São Francisco para garantir a paz mundial.",
+    "searchTerms": ["United_Nations"]
+  },
+  {
+    "title": "Apolo 11 (Cabo Canaveral)",
+    "coords": [28.3922, -80.6077],
+    "region": "América do Norte",
+    "desc": "O lançamento da missão que levou o homem à Lua.",
+    "searchTerms": ["Apollo_11"]
+  },
+  {
+    "title": "Batalha de Termópilas",
+    "coords": [38.7966, 22.5365],
+    "region": "Europa (Grécia)",
+    "desc": "A resistência dos 300 espartanos contra os Persas.",
+    "searchTerms": ["Battle_of_Thermopylae"]
+  },
+  {
+    "title": "Pânico de 1929 (Wall Street)",
+    "coords": [40.7069, -74.0113],
+    "region": "América do Norte",
+    "desc": "A quebra da bolsa de NY e o início da Grande Depressão.",
+    "searchTerms": ["Wall_Street_Crash_of_1929"]
+  },
+  {
+    "title": "Império Otomano (Viena)",
+    "coords": [48.2082, 16.3738],
+    "region": "Europa Central",
+    "desc": "O cerco que marcou o limite da expansão otomana na Europa.",
+    "searchTerms": ["Battle_of_Vienna"]
+  },
+  {
+    "title": "Lançamento do Sputnik",
+    "coords": [45.9646, 63.3052],
+    "region": "Ásia Central",
+    "desc": "O início da Era Espacial no Cosmódromo de Baikonur.",
+    "searchTerms": ["Sputnik_1"]
+  },
+  {
+    "title": "Revolução Mexicana",
+    "coords": [19.4326, -99.1332],
+    "region": "América do Norte (México)",
+    "desc": "A luta por 'Terra e Liberdade' de Zapata e Villa.",
+    "searchTerms": ["Mexican_Revolution"]
+  },
+  {
+    "title": "Expulsão dos Mouros (Granada)",
+    "coords": [37.1773, -3.5986],
+    "region": "Europa (Espanha)",
+    "desc": "O fim da Reconquista com a queda do Reino de Granada.",
+    "searchTerms": ["Granada_War"]
+  },
+  {
+    "title": "Fome de 1984 (Etiópia)",
+    "coords": [9.0227, 38.7460],
+    "region": "África (Chifre da África)",
+    "desc": "O evento que gerou o Live Aid e a mobilização mundial.",
+    "searchTerms": ["1983–1985_famine_in_Ethiopia"]
+  },
+  {
+    "title": "Nascimento da Coreia do Norte",
+    "coords": [39.0333, 125.7500],
+    "region": "Extremo Oriente",
+    "desc": "A divisão da península após a Segunda Guerra Mundial.",
+    "searchTerms": ["Division_of_Korea"]
+  },
+  {
+    "title": "Apartheid (Prisão de Mandela)",
+    "coords": [-33.8076, 18.3712],
+    "region": "África Subsaariana",
+    "desc": "Robben Island, onde Mandela ficou preso por décadas.",
+    "searchTerms": ["Robben_Island"]
+  },
+  {
+    "title": "A Primeira Volta ao Mundo",
+    "coords": [-52.3711, -68.4236],
+    "region": "América do Sul (Estreito de Magalhães)",
+    "desc": "Fernão de Magalhães descobre a passagem para o Oceano Pacífico.",
+    "searchTerms": ["Magellan_expedition"]
+  },
+  {
+    "title": "Ato de Independência da Coreia",
+    "coords": [37.5714, 126.9748],
+    "region": "Extremo Oriente",
+    "desc": "O movimento de 1 de Março contra o domínio colonial japonês.",
+    "searchTerms": ["March_1st_Movement"]
+  },
+  {
+    "title": "A Batalha de Maratona",
+    "coords": [38.1175, 23.9783],
+    "region": "Europa (Grécia)",
+    "desc": "A vitória improvável dos atenienses contra os persas.",
+    "searchTerms": ["Battle_of_Marathon"]
+  },
+  {
+    "title": "Coroação de Carlos Magno",
+    "coords": [41.9022, 12.4533],
+    "region": "Europa (Vaticano)",
+    "desc": "O nascimento do Sacro Império Romano no Natal de 800.",
+    "searchTerms": ["Charlemagne"]
+  },
+  {
+    "title": "A Grande Fome na Irlanda",
+    "coords": [53.3498, -6.2603],
+    "region": "Europa",
+    "desc": "A crise da batata que gerou uma migração em massa para os EUA.",
+    "searchTerms": ["Great_Famine_(Ireland)"]
+  },
+  {
+    "title": "Fundação de Israel",
+    "coords": [32.0853, 34.7818],
+    "region": "Oriente Médio",
+    "desc": "A declaração de independência em Tel Aviv em 1948.",
+    "searchTerms": ["Israeli_Declaration_of_Independence"]
+  },
+  {
+    "title": "Desastre do Hindenburg",
+    "coords": [40.0333, -74.3333],
+    "region": "América do Norte",
+    "desc": "O fim da era dos dirigíveis com a explosão em Nova Jérsia.",
+    "searchTerms": ["Hindenburg_disaster"]
+  },
+  {
+    "title": "Império de Gengis Khan",
+    "coords": [47.9167, 106.9167],
+    "region": "Ásia Central (Mongólia)",
+    "desc": "A unificação das tribos mongóis e a criação do maior império contínuo.",
+    "searchTerms": ["Genghis_Khan"]
+  },
+  {
+    "title": "Invenção da Prensa",
+    "coords": [49.9929, 8.2473],
+    "region": "Europa (Alemanha)",
+    "desc": "Gutenberg imprime a primeira Bíblia, revolucionando a leitura.",
+    "searchTerms": ["Johannes_Gutenberg"]
+  },
+  {
+    "title": "O Incêndio de Roma",
+    "coords": [41.8902, 12.4922],
+    "region": "Europa",
+    "desc": "O grande fogo durante o reinado de Nero.",
+    "searchTerms": ["Great_Fire_of_Rome"]
+  },
+  {
+    "title": "Revolução Cultural Chinesa",
+    "coords": [39.9039, 116.3914],
+    "region": "Extremo Oriente",
+    "desc": "O movimento sociopolítico lançado por Mao Tsé-Tung.",
+    "searchTerms": ["Cultural_Revolution"]
+  },
+  {
+    "title": "Naufrágio do Titanic",
+    "coords": [41.7269, -49.9482],
+    "region": "Oceano Atlântico Norte",
+    "desc": "O 'inafundável' navio colide com um iceberg.",
+    "searchTerms": ["Titanic"]
+  },
+  {
+    "title": "Tratado de Waitangi",
+    "coords": [-35.2622, 174.0814],
+    "region": "Oceania (Nova Zelândia)",
+    "desc": "O acordo fundamental entre a Coroa Britânica e os Chefes Māori.",
+    "searchTerms": ["Treaty_of_Waitangi"]
+  },
+  {
+    "title": "Guerra da Coreia (Panmunjom)",
+    "coords": [37.9558, 126.6769],
+    "region": "Extremo Oriente",
+    "desc": "A assinatura do armistício que dividiu as Coreias.",
+    "searchTerms": ["Korean_Armistice_Agreement"]
+  },
+  {
+    "title": "Guerra do Vietname (Saigão)",
+    "coords": [10.7769, 106.7009],
+    "region": "Sudeste Asiático",
+    "desc": "A queda de Saigão e o fim da guerra.",
+    "searchTerms": ["Fall_of_Saigon"]
+  },
+  {
+    "title": "Conquista de Constantinopla (4ª Cruzada)",
+    "coords": [41.0082, 28.9784],
+    "region": "Europa/Ásia",
+    "desc": "Quando os cruzados ocidentais saquearam a capital bizantina.",
+    "searchTerms": ["Sack_of_Constantinople"]
+  },
+  {
+    "title": "A Peste de Justiniano",
+    "coords": [41.0082, 28.9784],
+    "region": "Europa/Ásia",
+    "desc": "A primeira grande pandemia de peste bubónica registada.",
+    "searchTerms": ["Plague_of_Justinian"]
+  },
+  {
+    "title": "Expedição de Lewis e Clark",
+    "coords": [46.2500, -124.0167],
+    "region": "América do Norte",
+    "desc": "A travessia do continente americano até ao Pacífico.",
+    "searchTerms": ["Lewis_and_Clark_Expedition"]
+  },
+  {
+    "title": "Batalha de Hastings",
+    "coords": [50.9150, 0.4850],
+    "region": "Europa (Inglaterra)",
+    "desc": "A conquista normanda que mudou a história da Inglaterra.",
+    "searchTerms": ["Battle_of_Hastings"]
+  },
+  {
+    "title": "Marcha sobre Washington",
+    "coords": [38.8893, -77.0353],
+    "region": "América do Norte",
+    "desc": "Onde Martin Luther King Jr. proferiu o discurso 'I Have a Dream'.",
+    "searchTerms": ["March_on_Washington_for_Jobs_and_Freedom"]
+  },
+  {
+    "title": "Batalha de Midway",
+    "coords": [28.2101, -177.3761],
+    "region": "Oceano Pacífico",
+    "desc": "O confronto naval decisivo entre EUA e Japão na 2ª Guerra.",
+    "searchTerms": ["Battle_of_Midway"]
+  },
+  {
+    "title": "A Tomada da Bastilha",
+    "coords": [48.8531, 2.3691],
+    "region": "Europa (França)",
+    "desc": "O evento simbólico que deu início à Revolução Francesa.",
+    "searchTerms": ["Storming_of_the_Bastille"]
+  },
+  {
+    "title": "Fundação de Constantinopla",
+    "coords": [41.0082, 28.9784],
+    "region": "Europa/Ásia",
+    "desc": "Constantino transforma Bizâncio na Nova Roma.",
+    "searchTerms": ["Constantinople"]
+  },
+  {
+    "title": "Conquista do Império Asteca",
+    "coords": [19.4326, -99.1332],
+    "region": "América do Norte (México)",
+    "desc": "Hernán Cortés captura a capital Tenochtitlán.",
+    "searchTerms": ["Spanish_conquest_of_the_Aztec_Empire"]
+  },
+  {
+    "title": "Primeira Guerra do Ópio",
+    "coords": [22.2855, 114.1577],
+    "region": "Extremo Oriente (Hong Kong)",
+    "desc": "O conflito que forçou a abertura da China ao comércio ocidental.",
+    "searchTerms": ["First_Opium_War"]
+  },
+  {
+    "title": "Independência do Haiti",
+    "coords": [18.5392, -72.335],
+    "region": "Américas (Caribe)",
+    "desc": "A única revolta de escravos bem-sucedida que fundou uma nação.",
+    "searchTerms": ["Haitian_Revolution"]
+  },
+  {
+    "title": "Expedição de Shackleton",
+    "coords": [-64.8641, -63.0125],
+    "region": "Antártida",
+    "desc": "A incrível saga de sobrevivência da tripulação do Endurance.",
+    "searchTerms": ["Imperial_Trans-Antarctic_Expedition"]
+  },
+  {
+    "title": "Guerra da Crimeia",
+    "coords": [44.6167, 33.5333],
+    "region": "Europa (Mar Negro)",
+    "desc": "O cerco de Sebastopol e o nascimento da enfermagem moderna.",
+    "searchTerms": ["Crimean_War"]
+  },
+  {
+    "title": "Fundação de Bagdá",
+    "coords": [33.3152, 44.3661],
+    "region": "Oriente Médio (Iraque)",
+    "desc": "A 'Cidade da Paz' torna-se o centro da Era de Ouro Islâmica.",
+    "searchTerms": ["Abbasid_Caliphate"]
+  },
+  {
+    "title": "Revolução Industrial (Locomotiva)",
+    "coords": [54.9783, -1.6178],
+    "region": "Europa (Inglaterra)",
+    "desc": "Stephenson testa a 'Rocket', mudando os transportes para sempre.",
+    "searchTerms": ["George_Stephenson"]
+  },
+  {
+    "title": "Morte de Júlio César",
+    "coords": [41.8954, 12.4777],
+    "region": "Europa (Roma)",
+    "desc": "O assassinato no Largo di Torre Argentina que mudou o Império.",
+    "searchTerms": ["Assassination_of_Julius_Caesar"]
+  },
+  {
+    "title": "Inauguração da Estátua da Liberdade",
+    "coords": [40.6892, -74.0445],
+    "region": "América do Norte (Nova York)",
+    "desc": "O presente da França aos EUA como símbolo de liberdade.",
+    "searchTerms": ["Statue_of_Liberty"]
+  },
+  {
+    "title": "Conferência de Berlim",
+    "coords": [52.52, 13.405],
+    "region": "Europa (Alemanha)",
+    "desc": "As potências europeias dividem o continente africano entre si.",
+    "searchTerms": ["Berlin_Conference"]
+  },
+  {
+    "title": "Guerra Civil Espanhola (Guernica)",
+    "coords": [43.3156, -2.6791],
+    "region": "Europa (Espanha)",
+    "desc": "O bombardeio que inspirou a famosa obra de Picasso.",
+    "searchTerms": ["Guernica_(painting)"]
+  },
+  {
+    "title": "Fim do Império Russo (Ecaterimburgo)",
+    "coords": [56.8403, 60.6083],
+    "region": "Ásia/Europa (Rússia)",
+    "desc": "O local do destino final da família Romanov.",
+    "searchTerms": ["Execution_of_the_Romanov_family"]
+  },
+  {
+    "title": "Criação do Estado da Cidade do Vaticano",
+    "coords": [41.9029, 12.4534],
+    "region": "Europa (Itália)",
+    "desc": "O Tratado de Latrão resolve a 'Questão Romana'.",
+    "searchTerms": ["Lateran_Treaty"]
+  },
+  {
+    "title": "Guerra das Malvinas",
+    "coords": [-51.7963, -59.5236],
+    "region": "América do Sul (Atlântico Sul)",
+    "desc": "O conflito entre Argentina e Reino Unido pelas ilhas Falkland.",
+    "searchTerms": ["Falklands_War"]
+  },
+  {
+    "title": "Independência das Filipinas",
+    "coords": [14.5995, 120.9842],
+    "region": "Sudeste Asiático",
+    "desc": "A transição do domínio espanhol para o americano e a soberania final.",
+    "searchTerms": ["Philippine_Revolution"]
+  },
+  {
+    "title": "Fundação de Alexandria",
+    "coords": [31.2, 29.9167],
+    "region": "Norte da África (Egito)",
+    "desc": "Alexandre, o Grande, estabelece a maior metrópole da antiguidade.",
+    "searchTerms": ["Alexandria"]
+  },
+  {
+    "title": "Abertura da Disneylândia",
+    "coords": [33.8121, -117.919],
+    "region": "América do Norte (Califórnia)",
+    "desc": "O nascimento do entretenimento moderno de parques temáticos.",
+    "searchTerms": ["Disneyland"]
   }
-]
