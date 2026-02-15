@@ -1,0 +1,72 @@
+[
+  {
+    "title": "Queda de Constantinopla",
+    "coords": [41.0082, 28.9784],
+    "region": "Europa",
+    "desc": "O fim do Império Bizantino.",
+    "searchTerms": ["Fall_of_Constantinople"]
+  },
+  {
+    "title": "Batalha de Waterloo",
+    "coords": [50.6850, 4.4100],
+    "region": "Europa",
+    "desc": "O destino de Napoleão selado na Bélgica.",
+    "searchTerms": ["Battle_of_Waterloo"]
+  },
+  {
+    "title": "Vale do Indo",
+    "coords": [27.3297, 68.1389],
+    "region": "Ásia Meridional (Subcontinente Indiano)",
+    "desc": "Mohenjo-daro e o florescimento urbano.",
+    "searchTerms": ["Indus_Valley_Civilisation"]
+  },
+  {
+    "title": "Surgimento do Islã",
+    "coords": [21.4225, 39.8262],
+    "region": "Península Arábica",
+    "desc": "A revelação em Meca.",
+    "searchTerms": ["History_of_Islam"]
+  },
+  {
+    "title": "Samurais de Edo",
+    "coords": [35.6895, 139.6917],
+    "region": "Extremo Oriente (China/Japão/Coréia)",
+    "desc": "O auge dos guerreiros no Japão.",
+    "searchTerms": ["Samurai"]
+  },
+  {
+    "title": "Pirâmides de Gizé",
+    "coords": [29.9792, 31.1342],
+    "region": "Norte da África",
+    "desc": "Os colossos eternos dos Faraós.",
+    "searchTerms": ["Great_Pyramid_of_Giza"]
+  },
+  {
+    "title": "Império Mali",
+    "coords": [12.6392, -8.0029],
+    "region": "África Subsaariana",
+    "desc": "A lendária riqueza de Mansa Musa.",
+    "searchTerms": ["Mali_Empire"]
+  },
+  {
+    "title": "Império Inca",
+    "coords": [-13.5319, -71.9675],
+    "region": "América do Sul",
+    "desc": "Cusco, o Umbigo do Mundo.",
+    "searchTerms": ["Inca_Empire"]
+  },
+  {
+    "title": "Independência dos EUA",
+    "coords": [39.9489, -75.1503],
+    "region": "América do Norte",
+    "desc": "O nascimento de uma nação na Filadélfia.",
+    "searchTerms": ["American_Revolution"]
+  },
+  {
+    "title": "Expedição de Cook",
+    "coords": [-33.8688, 151.2093],
+    "region": "Oceania",
+    "desc": "A chegada britânica à Austrália.",
+    "searchTerms": ["James_Cook"]
+  }
+]
