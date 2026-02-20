@@ -1,4 +1,4 @@
-const HISTORIC_LIST = [
+[
   "Queda_da_Bastilha", "Assassinato_de_Francisco_Fernando_da_Áustria", "Batalha_de_Waterloo", 
   "Descobrimento_do_Brasil", "Proclamação_da_República_Brasileira", "Massacre_da_Praça_da_Sé", 
   "Ataque_a_Pearl_Harbor", "Batalha_de_Stalingrado", "Desembarque_da_Normandia", "Queda_do_Muro_de_Berlim", 
